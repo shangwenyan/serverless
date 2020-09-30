@@ -1,5 +1,4 @@
 
 print("Hello cloud!")
-print("serverless")
-
+print("Print from IAM user")
 
