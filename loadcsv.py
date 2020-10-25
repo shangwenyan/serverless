@@ -1,7 +1,7 @@
 import boto
 
-MY_ACCESS_KEY_ID = 'AKIAIC2QDRW5HKLDNLCA'
-MY_SECRET_ACCESS_KEY = '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'
+MY_ACCESS_KEY_ID = ''
+MY_SECRET_ACCESS_KEY = ''
 
 
 def do_batch_write(items, table_name, dynamodb_table, dynamodb_conn):
