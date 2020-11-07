@@ -18,7 +18,7 @@ Final project for MIDS IDS 706
 * Scrapes real-time game review from steam community on <Sekiro>
 * Stores review in AWS DynamoDB
 
-### Producer Lambda
+### Dynamo2SQS Lambda
 * Triggered by CloudWatch Timer
 * Reads information stored in AWS DynamoDB
 * Passes information to AWS SQS
