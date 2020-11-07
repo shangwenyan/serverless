@@ -8,6 +8,7 @@ Final project for MIDS IDS 706
 * To provide game product improvement insights from review analysis
 * To gain fluency in using AWS platform, with an emphasis on Cloud9, Lambda, DynamoDB, SQS, and S3
 
+## Pipeline Architecture 
 ### Scraper Lambda
 * Triggered by CloudWatch Timer
 * Scrapes real-time game review from steam community on <Sekiro>
