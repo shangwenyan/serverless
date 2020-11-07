@@ -15,7 +15,7 @@ Final project for MIDS IDS 706
 
 ### Scraper Lambda
 * Triggered by CloudWatch Timer
-* Scrapes real-time game review from steam community on <Sekiro>
+* Scrapes real-time game review from steam community on *Sekiro*
 * Stores review in AWS DynamoDB
 
 ### Dynamo2SQS Lambda
