@@ -1,0 +1,3 @@
+ikp3db==1.1.4
+boto3
+python-json-logger
