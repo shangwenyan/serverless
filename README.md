@@ -30,7 +30,6 @@ Final project for MIDS IDS 706
 
 
 #### Team Members
+Shangwen Yan: [@shangwenyan](https://github.com/shangwenyan)
 
-Shangwen Yan:[@shangwenyan](https://github.com/shangwenyan)
-
-Yi Feng:[@notfy111](https://github.com/notfy111)
+Yi Feng: [@notfy111](https://github.com/notfy111)
