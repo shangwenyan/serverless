@@ -29,5 +29,6 @@ Final project for MIDS IDS 706
 * Writes review and NLP results into an S3 bucket.
 
 
-Team Members: @Shangwen Yan
-              @Yi Feng
+#### Team Members
+Shangwen Yan:[@shangwenyan](https://github.com/shangwenyan)
+Yi Feng:[@notfy111](https://github.com/notfy111)
