@@ -9,6 +9,10 @@ Final project for MIDS IDS 706
 * To gain fluency in using AWS platform, with an emphasis on Cloud9, Lambda, DynamoDB, SQS, and S3
 
 ## Pipeline Architecture 
+
+![](architecture.png)
+
+
 ### Scraper Lambda
 * Triggered by CloudWatch Timer
 * Scrapes real-time game review from steam community on <Sekiro>
