@@ -22,3 +22,7 @@ Final project for MIDS IDS 706
 * Triggered by SQS input activity
 * Passes review to AWS Comprehend for sentiment analysis and key phrase detection
 * Writes review and NLP results into an S3 bucket.
+
+
+Team Members: @Shangwen Yan
+              @Yi Feng
