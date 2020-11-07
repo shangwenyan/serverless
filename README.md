@@ -6,7 +6,7 @@ Final project for MIDS IDS 706
 * To create a serverless game review data pipeline on AWS
 * To use AWS Comprehend API for sentiment analysis and phrase extraction
 * To provide game product improvement insights from review analysis
-* To gain fluency in using AWS platform, with an emphasis on Cloud9, Lambda, DynamoDB, SQS, and S3
+* To gain fluency in using AWS toolkits, with an emphasis on Cloud9, Lambda, DynamoDB, SQS, and S3
 
 ## Pipeline Architecture 
 
