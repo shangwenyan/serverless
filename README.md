@@ -29,7 +29,7 @@ Final project for MIDS IDS 706
 * Writes review and NLP results into an S3 bucket.
 
 ### Projec Demonstration 
-[![Watch the video](/Users/apple/Desktop/DemoCover.png )](https://youtu.be/4Vcb9lSpwSo)
+[<img src="https://img.youtube.com/vi/4Vcb9lSpwSo/maxresdefault.jpg" width="50%">](https://youtu.be/4Vcb9lSpwSo)
 
 #### Team Members
 Shangwen Yan: [@shangwenyan](https://github.com/shangwenyan)
